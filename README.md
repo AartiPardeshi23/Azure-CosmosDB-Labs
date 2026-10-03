@@ -1,5 +1,5 @@
 # Azure-CosmosDB-Labs
-# Azure Cosmos DB Practical Labs (EY-ADE 04)
+# Azure Cosmos DB Practical Labs 
 
 This repository contains:
 - ✅ Step-by-step beginner friendly Azure Cosmos DB labs
